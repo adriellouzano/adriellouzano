@@ -1,8 +1,8 @@
-#👋 Olá, eu sou o Adriel Rodrigues Louzano
+# 👋 Olá, eu sou o Adriel Rodrigues Louzano
 
-🎓 Estudante de Sistemas de Informação  
-💻 Desenvolvedor Full Stack  
-🚀 Foco em desenvolvimento web moderno e aplicações escaláveis  
+ Estudante de Sistemas de Informação  
+ Desenvolvedor Full Stack  
+ Foco em desenvolvimento web moderno e aplicações escaláveis  
 ---
 
 ##  Tech Stack
@@ -27,9 +27,6 @@
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Bcrypt-003A70?style=for-the-badge&logo=security&logoColor=white" />
 
 </p>
 
