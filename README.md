@@ -1,4 +1,4 @@
-# AdrielRlouzano# 👋 Olá, eu sou o Adriel Rodrigues Louzano
+#👋 Olá, eu sou o Adriel Rodrigues Louzano
 
 🎓 Estudante de Sistemas de Informação  
 💻 Desenvolvedor Full Stack  
@@ -58,10 +58,10 @@
 
 ---
 
-## 📚 Formação Acadêmica
+##  Formação Acadêmica
 
 🎓 Bacharelado em Sistemas de Informação  
-📍 Ênfase em:
+  Ênfase em:
 - Desenvolvimento Web
 - Arquitetura de Software
 - Banco de Dados
@@ -76,6 +76,6 @@ Busco oportunidades para atuar como **Desenvolvedor Full Stack Júnior**, contri
 
 ---
 
-📫 Conecte-se comigo:
+ Conecte-se comigo:
 - LinkedIn: https://www.linkedin.com/in/adriellouzano/
 - Email: adriellouzano@gmail.com
