@@ -21,6 +21,8 @@ Busco oportunidade como **Desenvolvedor Full Stack Júnior**, onde possa contrib
 <img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Typescript.svg">
 <img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
 <img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
+  <img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
+<img height="65em" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/CSS.svg">
 </p>
 
 ##  Back-end
